@@ -11,6 +11,7 @@ values of its shockwaves. A shockwave is equal to the sum of the values of its
 tremors.
 
 Example earthquake: 
+
     [[5,3,7],[3,3,1],[4,1,2]] ((5+3+7) (3+3+1) (4+1+2)) = 735
 
 A building begins with a strength value of 1000 when first built, but this value 
